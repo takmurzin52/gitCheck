@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "soSAL?\n";
+    cout << "SOSAL BIBU???????\n";
 }
 
